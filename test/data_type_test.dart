@@ -1,4 +1,4 @@
-import 'package:data_type/data_type.dart';
+import 'package:data_type_detector/detector.dart';
 import 'package:flutter_test/flutter_test.dart';
 
 void main() {
